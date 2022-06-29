@@ -8,11 +8,10 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        My name is Zeth Satentes, I am a Software Developer and have a true passion for computer science and web development. Currently looking for a company that can give me knowledge and guidance that will advance my career forward. I am hardworking, and driven to continue to learn. 
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
-        </p>
+        I have previous experience in HTML, CSS, Javascript, Web-APIs, Third-Party APIs, Server-Side APIs, Node.Js, Object-Oriented Programming (OOP), Express, SQL, Object-Relational Mapping (ORM), Model-View-Controller (MVC), NoSQL, Progressive Web Applications (PWA), React.Js, MERN Stack, and a basic understanding of Computer Science.         </p>
       </div>
     </section>
   );
